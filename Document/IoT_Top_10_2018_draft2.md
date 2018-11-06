@@ -48,6 +48,6 @@
 
 ## 関連情報
 
-[OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project)
-[Preparing to Release the OWASP IoT Top 10 2018](https://danielmiessler.com/blog/preparing-to-release-the-owasp-iot-top-10-2018/)
-[OWASP IoT Top 10 - Daniel Miessler](https://www.youtube.com/watch?v=aolD9zmYBmQ&feature=youtu.be)
+- [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project)
+- [Preparing to Release the OWASP IoT Top 10 2018](https://danielmiessler.com/blog/preparing-to-release-the-owasp-iot-top-10-2018/)
+- [OWASP IoT Top 10 - Daniel Miessler](https://www.youtube.com/watch?v=aolD9zmYBmQ&feature=youtu.be)
