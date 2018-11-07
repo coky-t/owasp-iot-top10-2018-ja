@@ -12,7 +12,7 @@
 
 ## I3 安全でないアクセスインタフェース
 
-安全でないウェブ、バックエンド API、クラウド、もしくはモバイルインタフェース。製品やそのエコシステムの危殆化を可能にします。
+安全でないウェブ、バックエンド API、クラウド、もしくはモバイルインタフェースがあります。製品やそのエコシステムの危殆化を可能にします。
 一般的な問題には、認証や認可の欠如、暗号化の欠如や脆弱な暗号化、入出力フィルタリングの欠如があります。
 
 ## I4 安全でないまたは時代遅れのコンポーネントの使用
@@ -50,4 +50,4 @@
 
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project)
 - [Preparing to Release the OWASP IoT Top 10 2018](https://danielmiessler.com/blog/preparing-to-release-the-owasp-iot-top-10-2018/)
-- [OWASP IoT Top 10 - Daniel Miessler](https://www.youtube.com/watch?v=aolD9zmYBmQ&feature=youtu.be)
+- [OWASP IoT Top 10 - Daniel Miessler](https://www.youtube.com/watch?v=aolD9zmYBmQ)
