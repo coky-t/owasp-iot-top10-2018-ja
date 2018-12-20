@@ -4,4 +4,5 @@ This is the unofficial Japanese translation of the [OWASP Internet of Things](ht
 
 # OWASP Internet of Things Top 10 2018 日本語版
 
+* [IoT Top 10 2018 (final)](Document/IoT_Top_10_2018_final.md)
 * [IoT Top 10 2018 (draft2)](Document/IoT_Top_10_2018_draft2.md)
