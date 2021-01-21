@@ -1,6 +1,10 @@
 # OWASP Internet of Things Top 10 2018 ja
 
-This is the unofficial Japanese translation of the [OWASP Internet of Things](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project) Top 10 2018.
+This is the unofficial Japanese translation of the [OWASP Internet of Things](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoT_Top_10) Top 10 2018.
+
+### Originator
+
+- Project Site - <https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoT_Top_10>
 
 # OWASP Internet of Things Top 10 2018 日本語版
 
