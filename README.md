@@ -2,6 +2,9 @@
 
 This is the unofficial Japanese translation of the [OWASP Internet of Things](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoT_Top_10) Top 10 2018.
 
+- Document Site - <https://coky-t.gitbook.io/owasp-iot-top10-2018-ja/>
+- Document Repository - <https://github.com/coky-t/owasp-iot-top10-2018-ja>
+
 ### Originator
 
 - Project Site - <https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoT_Top_10>
@@ -18,3 +21,6 @@ This is the unofficial Japanese translation of the [OWASP Internet of Things](ht
 ## Translator (Japanese)
 
 [Koki Takeyama](https://github.com/coky-t)
+
+- Document Site - <https://coky-t.gitbook.io/owasp-docs-ja/>
+- Document Repository - <https://github.com/coky-t/owasp-docs-ja>
